@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanika!</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
-- 🔭 I’m currently working on *Local store website*
+- 🔭 I’m currently working on *RAG Models*
 
-- 🌱 I’m currently learning *Next.js*
+- 🌱 I’m currently learning *ML*
 
 - 📫 How to reach me **dixit.sanika0506@gmail.com**
 
